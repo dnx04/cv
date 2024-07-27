@@ -46,7 +46,7 @@
   title: [Finalist -- Advanced Category],
   society: [HackTheon Sejong 2024 International Student Cybersecurity Competition],
   logo: image("images/sejong.jpg"),
-  date: [2023],
+  date: [2024],
   location: [Sejong City, Korea],
   description: none,
 )
