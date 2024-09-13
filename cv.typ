@@ -9,14 +9,14 @@
 #cvSection("Education")
 
 #cvEntry(
-  title: [Bachelor of Science in Computer Sciences],
+  title: [Bachelor in Computer Sciences, 3rd year],
   society: [University of Engineering and Technology, VNU Hanoi (UET-VNU)],
   date: [2022 -- 2026],
   location: [Hanoi, Vietnam],
   logo: image("images/uet.png"),
   description: list(
-    [*Courses*: Data Structures & Algorithms, Database, Network Security, Operating System, Software Testing & Quality Assurance.],
-    [*GPA:* 3.57/4]
+    [*Courses*: Data Structures & Algorithms, Database, Network Security, Operating System, Software Testing & Quality Assurance, Artificial Intelligence.],
+    [*GPA:* 3.56/4]
   ),
 )
 
@@ -32,6 +32,24 @@
 )
 
 #cvSection("Merits")
+
+#cvEntry(
+  title: [Champion],
+  society: [Viettel Programming Challenge 2024],
+  logo: image("images/viettel.png"),
+  date: [2024],
+  location: [Viettel Group],
+  description: none,
+)
+
+#cvEntry(
+  title: [1st place - Quarterfinal, Onsite finalist],
+  society: [Digital Dragon CTF 2024],
+  logo: image("images/ddc.png"),
+  date: [2024],
+  location: [VKU, Da Nang],
+  description: none,
+)
 
 #cvEntry(
   title: [Silver Medal -- Master Division],
@@ -72,6 +90,17 @@
 #cvSection("Experiences")
 
 #cvEntry(
+  title: [ Cybersecurity Researcher ],
+  society: [#link("https://jobs.viettel.vn/content/Viettel-Digital-Talent/?locale=vi_VN")[*Viettel Cyber Security*]],
+  date: [2024],
+  logo: image("images/viettel.png"),
+  location: [Hanoi, Vietnam],
+  description: list(
+    [ Currently researching on Red Team Reconnaissance phase. ] 
+  ),
+)
+
+#cvEntry(
   title: [Student Ambassador -- Cybersecurity],
   society: [#link("https://jobs.viettel.vn/content/Viettel-Digital-Talent/?locale=vi_VN")[*Viettel Digital Talent 2024*]],
   date: [2024],
@@ -79,7 +108,7 @@
   location: [Viettel Group, Hanoi, Vietnam],
   description: list(
     [*Entrance exam result*: 23/30 -- 122.67 (IQ), 790/990 (TOEIC), 43/50 (Specialization), 570/570 (Programming)],
-    [*Phase 1 project:* _Techniques and Attack Chains in Linux System Pentesting_, produced a 37-page report on the progress to achieve root privileges on _Skyfall_ and _Corporate_ -- 2 Insane Linux targets on HackTheBox.], 
+    [*Phase 1 project:* _Techniques and Attack Chains in Linux System Pentesting_, produced a 37-page report on the progress to achieve root privileges on _Skyfall_ and _Corporate_ -- 2 active Insane Linux targets on HackTheBox.], 
     [*Achieved Top 1* and was _selected as an ambassador_ among 35 trainees in Phase 1. Currently onboarding at Viettel Cyber Security (VCS).]
   ),
 )
@@ -101,7 +130,7 @@
 
 #cvSkill(
   type: [Languages],
-  info: [English #hBar() Vietnamese],
+  info: [English (IELTS 7.0) #hBar() Vietnamese],
 )
 
 #cvSkill(
@@ -111,5 +140,5 @@
 
 #cvSkill(
   type: [Personal Interests],
-  info: [CTF #hBar() Competitive Programming #hBar() Chess #hBar() Swimming #hBar() Traveling],
+  info: [ Chess #hBar() Swimming #hBar() Traveling #hBar() Piano & Music ],
 )
