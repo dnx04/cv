@@ -13,7 +13,7 @@ header_align = "left"
 
  # Decide if you want to display profile photo or not
 display_profile_photo = true
-profile_photo_path = "images/dnx04.jpg"
+profile_photo_path = "images/dnx04.png"
 
 [layout.entry]
 # Decide if you want to put your company in bold or your position in bold
@@ -40,8 +40,8 @@ last_name = "Nguyen"
 github = "dnx04"
 phone = "+84 944 190 104"
 email = "dnx04.gg@gmail.com"
-linkedin = "duongnguyen2004"
-homepage = "dnx04.vercel.app"
+linkedin = "dnx04"
+# homepage = "dnx04.hashnode.dev"
 facebook = "dnx04"
 # gitlab = "mintyfrankie"
 # orcid = "0000-0000-0000-0000"
