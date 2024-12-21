@@ -16,7 +16,7 @@
   logo: image("images/uet.png"),
   description: list(
     [*Courses*: Data Structures & Algorithms, Database, Network Security, Operating System, Software Testing & Quality Assurance.],
-    [*GPA:* 3.55/4]
+    [*GPA:* 3.58/4]
   ),
 )
 
@@ -28,10 +28,19 @@
   logo: image("images/hsgs.jpg"),
   description: list(
     [*GPA:* 9.6/10]
-  ),
+  ),  
 )
 
 #cvSection("Merits")
+
+#cvEntry(
+  title: [Silver Medal, Rank 13/137],
+  society: [The 2024 ICPC Asia Hanoi Regional Contest],
+  logo: image("images/icpc.png"),
+  date: [2024],
+  location: [Hanoi, Vietnam],
+  description: none,
+)
 
 #cvEntry(
   title: [Second Prize, Rank 14/400+],
@@ -44,7 +53,7 @@
 
 #cvEntry(
   title: [Third Prize],
-  society: [Viettel Digital Talent 2024],
+  society: [Viettel Digital Talent 2024 -- Cybersecurity],
   logo: image("images/viettel.png"),
   date: [2024],
   location: [Viettel Group],
@@ -90,12 +99,14 @@
 #cvSection("Experiences")
 
 #cvEntry(
-  title: [ Researcher Intern ],
+  title: [ Junior Apprentice ],
   society: [#link("https://jobs.viettel.vn/content/Viettel-Digital-Talent/?locale=vi_VN")[*Viettel Cyber Security*]],
   date: [2024],
   logo: image("images/viettel.png"),
   location: [Hanoi, Vietnam],
-  description: none,
+  description: list(
+    [ Progressing a personalized training curriculum of Pentester/Red Team.], [ Begin taking parts in cybersecurity assessments of organizations.],
+  ),
 )
 
 #cvEntry(
@@ -104,7 +115,9 @@
   date: [2024],
   logo: image("images/fyt.png"),
   location: [Hanoi, Vietnam],
-  description: none,
+  description: list(
+    [ A center comprises of renowned, talented students of Vietnam, with many achieved national and international awards.]
+  ),
 )
 
 #cvEntry(
@@ -115,7 +128,7 @@
   location: [Viettel Group, Hanoi, Vietnam],
   description: list(
     [*Phase 1:* _Techniques and Attack Chains in Linux System Pentesting_, produced a 37-page report on the progress to achieve root privileges on _Skyfall_ and _Corporate_ -- 2 active Insane Linux targets on HackTheBox. This mini-project is ranked *Top 1* in Cyber Security track and I was _selected as an ambassador_ among 9 tracks.],
-    [*Phase 2:* Implementing an External Attack Surface Management System for VCS Red Team Service. I worked on improving the overall recon accuracy and speed, and optimized VCS Red Team workflow. The final presentation of the project won me the *3rd prize* in the final of Viettel Digital Talent 2024.],
+    [*Phase 2:* Implementing an External Attack Surface Management System for Red Team. I worked on improving the overall recon accuracy and speed, and optimized the workflow. The final presentation of the project won me the *3rd prize* in the Finals.],
 
   ),
 )
