@@ -15,8 +15,7 @@
   location: [Hanoi, Vietnam],
   logo: image("images/uet.png"),
   description: list(
-    [*Courses*: Data Structures & Algorithms, Database, Network Security, Operating System, Software Testing & Quality Assurance.],
-    [*GPA:* 3.58/4]
+    [*GPA:* 3.60/4]
   ),
 )
 
@@ -34,10 +33,19 @@
 #cvSection("Merits")
 
 #cvEntry(
+  title: [Honorable Mention],
+  society: [The 2025 ICPC Asia Pacific Championship],
+  logo: image("images/icpc.png"),
+  date: [March, 2025],
+  location: [NUS, Singapore],
+  description: none,
+)
+
+#cvEntry(
   title: [Silver Medal, Rank 13/137],
   society: [The 2024 ICPC Asia Hanoi Regional Contest],
   logo: image("images/icpc.png"),
-  date: [2024],
+  date: [December, 2024],
   location: [Hanoi, Vietnam],
   description: none,
 )
@@ -46,16 +54,16 @@
   title: [Second Prize, Rank 14/400+],
   society: [The 2024 ICPC Vietnam National Programming Contest],
   logo: image("images/icpc.png"),
-  date: [2024],
+  date: [November, 2024],
   location: [Hanoi, Vietnam],
   description: none,
 )
 
 #cvEntry(
-  title: [Third Prize],
+  title: [Finalist, Third Prize],
   society: [Viettel Digital Talent 2024 -- Cybersecurity],
   logo: image("images/viettel.png"),
-  date: [2024],
+  date: [October, 2024],
   location: [Viettel Group],
   description: none,
 )
@@ -64,7 +72,7 @@
   title: [Champion],
   society: [Viettel Programming Challenge 2024],
   logo: image("images/viettel.png"),
-  date: [2024],
+  date: [September, 2024],
   location: [Viettel Group],
   description: none,
 )
@@ -73,7 +81,7 @@
   title: [Silver Medal -- Master Division],
   society: [Da Nang Code League 2024],
   logo: image("images/fpt.jpg"),
-  date: [2024],
+  date: [July, 2024],
   location: [FPT Complex, Da Nang],
   description: none,
 )
@@ -82,30 +90,21 @@
   title: [Finalist -- Advanced Category],
   society: [HackTheon Sejong 2024 International Student Cybersecurity Competition],
   logo: image("images/sejong.jpg"),
-  date: [2024],
+  date: [June, 2024],
   location: [Sejong City, Korea],
   description: none,
 )
 
-// #cvEntry(
-//   title: [Top 7/211 (Hanoi), Finalist (Summit)],
-//   society: [Code Tour 2023],
-//   logo: image("images/vng.png"),
-//   date: [2023],
-//   location: [VNG, HCMC, Vietnam],
-//   description: none,
-// )
-
 #cvSection("Experiences")
 
 #cvEntry(
-  title: [ Junior Apprentice ],
+  title: [ Security Engineer Internship ],
   society: [#link("https://jobs.viettel.vn/content/Viettel-Digital-Talent/?locale=vi_VN")[*Viettel Cyber Security*]],
-  date: [2024],
+  date: [August, 2024 -- July, 2025],
   logo: image("images/viettel.png"),
   location: [Hanoi, Vietnam],
   description: list(
-    [ Progressing a personalized training curriculum of Pentester/Red Team.], [ Begin taking parts in cybersecurity assessments of organizations.],
+    [ Progressing a personalized training curriculum of Red Team and Security Researcher.], [ Begin taking parts in cybersecurity assessments of organizations.],
   ),
 )
 
@@ -123,7 +122,7 @@
 #cvEntry(
   title: [Ambassador -- Cybersecurity],
   society: [#link("https://jobs.viettel.vn/content/Viettel-Digital-Talent/?locale=vi_VN")[*Viettel Digital Talent 2024*]],
-  date: [2024],
+  date: [April, 2024 -- October, 2024],
   logo: image("images/viettel.png"),
   location: [Viettel Group, Hanoi, Vietnam],
   description: list(
