@@ -10,7 +10,7 @@
 
 #cvEntry(
   title: [Bachelor in Computer Sciences, 4th year],
-  society: [University of Engineering and Technology, VNU Hanoi (UET-VNU)],
+  society: [University of Engineering and Technology, VNU (UET-VNU)],
   date: [2022 -- 2026],
   location: [Hanoi, Vietnam],
   logo: image("images/uet.png"),
@@ -21,7 +21,7 @@
 
 #cvEntry(
   title: [Informatics],
-  society: [High School for the Gifted Students, University of Science, VNU Hanoi (HSGS-HUS)],
+  society: [High School for the Gifted Students, University of Science, VNU (HSGS)],
   date: [2019 - 2022],
   location: [Hanoi, Vietnam],
   logo: image("images/hsgs.jpg"),
@@ -110,12 +110,12 @@
 
 #cvEntry(
   title: [ K25 Member ],
-  society: [#link("https://www.facebook.com/FYT.vn/?locale=vi_VN")[*FPT Center for Young Talents*]],
+  society: [#link("https://www.facebook.com/FYT.vn/?locale=vi_VN")[*FPT Center for Young Talents - FYT*]],
   date: [2024],
   logo: image("images/fyt.png"),
   location: [Hanoi, Vietnam],
   description: list(
-    [ A center comprises of renowned, talented students of Vietnam, with many achieved national and international awards.]
+    [ A center comprises of renowned, talented students of Vietnam, sponsored by FPT, with many achieved national and international awards.]
   ),
 )
 
@@ -126,8 +126,8 @@
   logo: image("images/viettel.png"),
   location: [Viettel Group, Hanoi, Vietnam],
   description: list(
-    [*Phase 1:* _Techniques and Attack Chains in Linux System Pentesting_, produced a 37-page report on the progress to achieve root privileges on _Skyfall_ and _Corporate_ -- 2 active Insane Linux targets on HackTheBox. This mini-project is ranked *Top 1* in Cyber Security track and I was _selected as an ambassador_ among 9 tracks.],
-    [*Phase 2:* Implementing an External Attack Surface Management System for Red Team. I worked on improving the overall recon accuracy and speed, and optimized the workflow. The final presentation of the project won me the *3rd prize* in the Finals.],
+    [*Phase 1:* _Techniques and Attack Chains in Linux System Pentesting_. This mini-project is ranked *Top 1* in Cyber Security track and I was _selected as an ambassador_ among 9 tracks.],
+    [*Phase 2:* Customizing an External Attack Surface Management System for Red Team based on rEngine (Python, Django). The final presentation of the project won me the *3rd prize* in the Finals.],
 
   ),
 )
@@ -135,16 +135,21 @@
 #cvSection("Skills")
 
 #cvSkill(
-  type: [Languages],
-  info: [English #hBar() Vietnamese],
+  type: [Cybersecurity],
+  info: [Web Exploit #hBar() Reverse Engineering],
 )
 
 #cvSkill(
-  type: [Tools],
-  info: [Docker #hBar() Burp Suite Professional #hBar() Wireshark #hBar() IDA Pro #hBar() GDB],
+  type: [SysAdmin],
+  info: [Docker #hBar() Caddy #hBar() Cloudflare #hBar() WireGuard / Headscale],
+)
+
+#cvSkill(
+  type: [Devs],
+  info: [C++ #hBar() Python (Django) #hBar() Java],
 )
 
 #cvSkill(
   type: [Personal Interests],
-  info: [ Chess #hBar() Swimming #hBar() Traveling #hBar() Piano & Music ],
+  info: [ Chess / TFT #hBar() Typesetting (Typst) #hBar() Swimming #hBar() Traveling #hBar() Piano & Music ],
 )

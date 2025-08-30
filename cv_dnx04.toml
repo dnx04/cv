@@ -19,7 +19,7 @@ language = "en"
     #date_width = "3.6cm"
 
     [layout.fonts]
-        regular_fonts = ["Inter", "Source Sans 3"]
+        regular_fonts = "Calibri"
         header_font = "Calibri"
 
     [layout.header]
