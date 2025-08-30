@@ -9,7 +9,7 @@
 #cvSection("Education")
 
 #cvEntry(
-  title: [Bachelor in Computer Sciences, 3rd year],
+  title: [Bachelor in Computer Sciences, 4th year],
   society: [University of Engineering and Technology, VNU Hanoi (UET-VNU)],
   date: [2022 -- 2026],
   location: [Hanoi, Vietnam],

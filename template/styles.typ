@@ -1,10 +1,11 @@
 #let hBar() = [#h(5pt) | #h(5pt)]
 
 #let latinFontList = (
+  "Roboto",
   "Source Sans 3",
   "Calibri",
-  "Font Awesome 6 Brands",
-  "Font Awesome 6 Free",
+  "Font Awesome 7 Brands",
+  "Font Awesome 7 Free",
 )
 
 #let latinHeaderFont = ("Calibri")
